@@ -1,9 +1,12 @@
 
 #Files
 src/public/files/*
+!src/public/files/default
 
 # Images
 src/public/images/*
+!src/public/images/default
+
 
 package-lock.json
 
